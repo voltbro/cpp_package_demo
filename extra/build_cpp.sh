@@ -1,0 +1,1 @@
+sudo /home/pi/ros_catkin_ws/src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Release --install-space /opt/ros/melodic --pkg=/home/pi/ros_catkin_ws/src/cpp_package_demo
